@@ -1,3 +1,3 @@
 public class Main {
-print("Hello world");
+print("Hello world" + "from first developer");
 }
